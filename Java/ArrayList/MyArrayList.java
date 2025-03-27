@@ -1,8 +1,6 @@
 /*
  * Name: Kyle Kim
- * Email: kyk029@ucsd.edu
- * PID: A18186449
- * Sources Used: write-up, JDK
+ * Email: kylekim043006@gmail.com
  * This file implements a Arraylist class using
  * Java generics to replicate the functionality of the 
  * Java ArrayList class.
