@@ -1,3 +1,9 @@
+/*
+ * Name: Kyle Kim
+ * Email: kylekim043006@gmail.com
+ * This file is the list interface for the ArrayList Implementation.
+ */
+
 /**
  * This file contains all of the methods for the MyList interface. All classes
  * implementing this interface should also implement the methods listed here.
